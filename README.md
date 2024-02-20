@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey there, I'm Nafla!👋 <br>🎓 Second-year undergraduate student at the University of Westminster UK.<br>🌱 Currently, I'm honing my skills in backend development with Node.js and PHP, while also delving deeper into the MERN stack for full-stack applications.<br>💡 My interests lie in mobile application development, front-end development, and Java programming (OOP concepts). Proficient in Java, Flutter, ReactJS, and Python, I thrive on building intuitive user interfaces and dynamic experiences.<br>✍️ In addition to my studies, I enjoy journaling and playing badminton.<br>🚀 Excited to explore new opportunities and work alongside passionate individuals to build remarkable projects.<br>
+Hey there, I'm Nafla!👋
+<br>🎓 Second-year undergraduate student at the University of Westminster UK.<br>🌱 Currently, I'm honing my skills in backend development with Node.js and PHP, while also delving deeper into the MERN stack for full-stack applications.<br>💡 My interests lie in mobile application development, front-end development, and Java programming (OOP concepts). Proficient in Java, Flutter, ReactJS, and Python, I thrive on building intuitive user interfaces and dynamic experiences.<br>✍️ In addition to my studies, I enjoy journaling and playing badminton.<br>🚀 Excited to explore new opportunities and work alongside passionate individuals to build remarkable projects.<br>
 
 
 ## 🌐 Socials:
