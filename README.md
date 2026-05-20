@@ -12,12 +12,6 @@ Hey there, I'm Nafla!👋<br>🎓 Second-year undergraduate student at the Unive
 ![](https://github-readme-streak-stats.herokuapp.com/?user=naflanawas&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naflanawas&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=naflanawas&icon=0&color=6)](https://visitcount.itsvg.in)
 
